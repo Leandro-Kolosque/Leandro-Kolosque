@@ -2,10 +2,10 @@
 Desde que me interessei na área de tecnologia da informação estou buscando melhorar meus conhecimentos na área de Programação e Tecnologia, estudo diariamente para conseguir me tornar um profissional exemplar e de muito sucesso !!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leandro-Kolosque&layout=compact&theme=shadow_red&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leandro-Kolosque&layout=compact&theme=shadow_red&rank_icon=github&langs_count=8&card_width=315" />
 </a>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandro-Kolosque&layout=compact&langs_count=8&card_width=300&theme=shadow_red" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandro-Kolosque&layout=compact&langs_count=8&card_width=320&theme=shadow_red" />
 </a>
 
 ~~~python
