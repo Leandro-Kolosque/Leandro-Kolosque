@@ -19,4 +19,4 @@ print('Hello World !!')
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />    
 </div>
-<img align="right" alt="Leandro versão anime" height="180" width="180" src="https://media.discordapp.net/attachments/674057114506756102/1213572835860025445/teste01-fotor-2024030216450.png?ex=65f5f6c7&is=65e381c7&hm=d108d1292e2d4c4a8626f352d1dac3b3028b3c712e6825c148a60bf2ce3c5dfc&=&format=webp&quality=lossless&width=670&height=670">
+<img align="right" alt="Leandro versão anime" height="180" width="180" src="https://media.discordapp.net/attachments/674057114506756102/1213582974541635594/Foto02-removebg-preview.png?ex=65f60038&is=65e38b38&hm=f3398f1244b20a4eb18c8854a5b7cd4184f383716eeae20012f7ea5f699718ed&=&format=webp&quality=lossless&width=592&height=657">
