@@ -1,4 +1,4 @@
-### Olá meu nome é Leandro Kolosque
+### Olá meu nome é Leandro Kolosque <img align="centre" alt="Hi" height="25" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Hi">
 Desde que me interessei na área de tecnologia da informação estou buscando melhorar meus conhecimentos na área de Programação e Tecnologia, estudo diariamente para conseguir me tornar um profissional exemplar e de muito sucesso !!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,3 +16,4 @@ print('Hello World !!')
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
