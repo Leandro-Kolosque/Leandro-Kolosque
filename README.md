@@ -20,4 +20,4 @@ print('Hello World !!')
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />    
 </div>
-
+<img align="right" alt="Leandro versão anime" height="200" width="200" src="https://cdn.picrew.me/shareImg/org/202403/41153_RXxllQOr.png"> 
