@@ -19,7 +19,7 @@ print('Hello World !!')
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />    
 </div>
-<img align="right" alt="Leandro versão anime" height="180" width="180" src="https://media.discordapp.net/attachments/674057114506756102/1213582974541635594/Foto02-removebg-preview.png?ex=6664be38&is=66636cb8&hm=902af013e4ebb0c758d0b5b08387d270f5be430ba1f543c5729e39c88d70cedc&=&format=webp&quality=lossless&width=592&height=657">
+<img align="right" alt="Leandro versão anime" height="180" width="180" src="https://media.discordapp.net/attachments/674057114506756102/1213582974541635594/Foto02-removebg-preview.png?ex=66f1ceb8&is=66f07d38&hm=64304480c6f5f873eb42f68c3f1c21d3cbd3914237ac78d2ccd7454a13ca13ca&=&format=webp&quality=lossless&width=592&height=657">
 
 <div> 
   <a href = "mailto:leandro.wingerth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
