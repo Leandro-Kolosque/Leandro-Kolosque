@@ -20,7 +20,7 @@ print('Hello World !!')
 ~~~
 
 <h2></h2>
-<img align="right" alt="Leandro versão anime" height="200" width="200" src=https://media.discordapp.net/attachments/674057114506756102/1213582974541635594/Foto02-removebg-preview.png?ex=672bd0b8&is=672a7f38&hm=dfb53a55d571fef40c169f1124723d09652779e9e40105d32c3919fd7cd742fc&=&format=webp&quality=lossless&width=592&height=657>
+<img align="right" alt="Leandro versão anime" height="200" width="200" src=https://media.discordapp.net/attachments/674057114506756102/1213582974541635594/Foto02-removebg-preview.png?ex=673c4b78&is=673af9f8&hm=bcb31150c469029073ed236c9987d4bb1d09a3d92c7b7e82e490944d63de62bd&=&format=webp&quality=lossless&width=592&height=657>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Leandro-Kolosque&dates=444444FA&border=990000FA&background=99000000&ring=990000FA&currStreakNum=990000FA&sideNums=990000FA&currStreakLabel=444444FA&stroke=990000FA&sideLabels=444444FA&excludeDaysLabel=990000FA"/></a>
 
