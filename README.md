@@ -20,6 +20,6 @@ print('Hello World !!')
 ~~~
 
 <h2></h2>
-<img align="right" alt="Leandro versão anime" height="200" width="200" src=https://github.com/user-attachments/assets/a5596125-ed14-4a60-9fe4-6c49d2295fe5>
+<img align="right" alt="Leandro versão anime" height="200" width="200" src=https://github.com/user-attachments/assets/a5596125-ed14-4a60-9fe4-6c49d2295fe5 />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Leandro-Kolosque&dates=444444FA&border=990000FA&background=99000000&ring=990000FA&currStreakNum=990000FA&sideNums=990000FA&currStreakLabel=444444FA&stroke=990000FA&sideLabels=444444FA&excludeDaysLabel=990000FA"/></a>
