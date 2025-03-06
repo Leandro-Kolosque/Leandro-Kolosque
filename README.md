@@ -5,7 +5,8 @@
 </div>
 
 ### Olá meu nome é Leandro Kolosque <img alt="Hi" height="25" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Hi">
-Desde que me interessei na área de tecnologia da informação estou buscando melhorar meus conhecimentos na área de Programação e Tecnologia, estudo diariamente para conseguir me tornar um profissional exemplar e de muito sucesso !!
+Sou um desenvolvedor apaixonado por tecnologia e inovação, com o objetivo de tornar soluções digitais mais acessíveis, performáticas, seguras e sustentáveis. Busco constantemente explorar novas tecnologias e aplicá-las na resolução de problemas do mundo real. Acredito que um código bem estruturado e acessível pode impactar positivamente a vida das pessoas.
+Estou sempre em evolução, estudando diariamente para aprimorar minhas habilidades e me tornar um profissional cada vez mais completo. Se quiser trocar uma ideia sobre tecnologia, acessibilidade ou boas práticas de desenvolvimento, é só chamar!
 
 <h2>GitHub Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
