@@ -10,7 +10,7 @@ Estou sempre em evolução, estudando diariamente para aprimorar minhas habilida
 
 <h2>GitHub Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Leandro-Kolosque&theme=shadow_red&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats-languages.vercel.app/api?username=Leandro-Kolosque&theme=shadow_red&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img height=180 align="center" src="https://github-readme-stats-languages.vercel.app/api/top-langs?username=Leandro-Kolosque&layout=compact&langs_count=8&card_width=300&theme=shadow_red" />
